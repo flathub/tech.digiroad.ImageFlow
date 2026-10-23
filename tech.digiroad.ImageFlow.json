@@ -19,8 +19,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/GS90/ImageFlow",
-                    "tag": "1.2.1",
-                    "commit": "d19a5ffd6dea672ec1037bb3fc626b14975abc1c"
+                    "tag": "1.2.2",
+                    "commit": "8ef67fd7858b455e34d0264ea60f61062e023e42"
                 }
             ]
         }
