@@ -1,7 +1,7 @@
 {
     "id" : "tech.digiroad.ImageFlow",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "50",
+    "runtime-version" : "51",
     "sdk" : "org.gnome.Sdk",
     "command" : "imageflow",
     "finish-args" : [
@@ -19,8 +19,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/GS90/ImageFlow",
-                    "tag": "1.1.2",
-                    "commit": "e5aa2a7dc948837c91f2deecff7da232e08ed135"
+                    "tag": "1.2.0",
+                    "commit": "892d9f02a373c8fe5dd16e38bc9ba073f48db46f"
                 }
             ]
         }
